@@ -1,0 +1,26 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto Node",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriela1105/Node.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Gabriela Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriela1105/Node/issues"
+  },
+  "homepage": "https://github.com/Gabriela1105/Node#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
